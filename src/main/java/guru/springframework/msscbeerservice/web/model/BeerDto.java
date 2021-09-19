@@ -32,7 +32,7 @@ public class BeerDto {
     private OffsetDateTime lastModifiedDate;
 
     @NotBlank
-    private String bearName;
+    private String beerName;
 
     @NotNull
     private BeerStyleEnum beerStyle;
