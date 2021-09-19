@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/pedy711/mssc-beer-service/tree/master.svg?style=svg)](https://circleci.com/gh/pedy711/mssc-beer-service/tree/master)
+[![CircleCI](https://circleci.com/gh/pedy711/mssc-beer-service/tree/master.svg?style=svg&circle-token=e430adab92015190c50a720293a3f2fd429026ae)](https://circleci.com/gh/pedy711/mssc-beer-service/tree/master)
 
 # MSSC Beer Service
 
